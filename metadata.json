@@ -1,0 +1,5 @@
+{
+  "name": "AceInBase",
+  "description": "An interactive learning game for Year 7 and Year 8 students in the UK, covering Science and Maths concepts aligned with the national curriculum. The app uses a conversational AI tutor to guide students, asking for their understanding before providing answers.",
+  "requestFramePermissions": []
+}
